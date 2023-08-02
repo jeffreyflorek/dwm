@@ -45,3 +45,5 @@ and (re)compiling the source code.
 ## Patches
 The following patches have been applied on top of upstream dwm:
 - [xresources](https://dwm.suckless.org/patches/xresources)
+- [hide vacant tags](https://dwm.suckless.org/patches/hide_vacant_tags/)
+- [scratchpads](httpsL//dwm.suckless.org/patches/scratchpads/)
